@@ -1,0 +1,210 @@
+CRITICAL - 2024-10-21 07:10:25 --> ErrorException: Cannot redeclare App\Controllers\Home::index()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-21 07:10:33 --> ErrorException: Cannot redeclare App\Controllers\Home::index()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 11.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-21 08:11:16 --> ArgumentCountError: Too few arguments to function App\Controllers\Coba::about(), 0 passed in C:\laragon\www\ServisKu\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: coba]
+in APPPATH\Controllers\Coba.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Coba->about()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 08:12:13 --> ArgumentCountError: Too few arguments to function App\Controllers\Coba::about(), 0 passed in C:\laragon\www\ServisKu\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: coba]
+in APPPATH\Controllers\Coba.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Coba->about()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 08:18:21 --> ArgumentCountError: Too few arguments to function App\Controllers\Coba::about(), 0 passed in C:\laragon\www\ServisKu\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: coba]
+in APPPATH\Controllers\Coba.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Coba->about()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 08:22:42 --> ArgumentCountError: Too few arguments to function App\Controllers\Coba::about(), 0 passed in C:\laragon\www\ServisKu\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: coba/about/]
+in APPPATH\Controllers\Coba.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Coba->about()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 08:27:00 --> ArgumentCountError: Too few arguments to function App\Controllers\Coba::index(), 0 passed in C:\laragon\www\ServisKu\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: coba/index]
+in APPPATH\Controllers\Coba.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Coba->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 08:27:05 --> ArgumentCountError: Too few arguments to function App\Controllers\Coba::index(), 0 passed in C:\laragon\www\ServisKu\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: GET, Route: coba]
+in APPPATH\Controllers\Coba.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Coba->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:01:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "home.php"
+[Method: GET, Route: pages]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:05:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "home.php"
+[Method: GET, Route: pages]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:21:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/about.php"
+[Method: GET, Route: pages/about]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(16): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:25:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/about.php"
+[Method: GET, Route: pages/about]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(16): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:26:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/about.php"
+[Method: GET, Route: pages/about]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(16): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:28:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/about.php"
+[Method: GET, Route: pages/about]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(16): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:29:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/about.php"
+[Method: GET, Route: pages/about]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(16): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:29:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/about.php"
+[Method: GET, Route: Pages/about]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(16): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:30:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/about.php"
+[Method: GET, Route: Pages/about]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(16): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:31:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/about.php"
+[Method: GET, Route: pages/about]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/about.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(16): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')
+CRITICAL - 2024-10-21 09:35:06 --> ParseError: syntax error, unexpected variable "$data", expecting ")"
+[Method: GET, Route: pages/about/]
+in APPPATH\Controllers\Pages.php on line 12.
+ 1 SYSTEMPATH\Router\Router.php(563): CodeIgniter\Router\AutoRouter->getRoute('pages/about/', 'GET')
+ 2 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->autoRoute('pages/about/')
+ 3 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('pages/about/')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\ServisKu\\public\\index.php')

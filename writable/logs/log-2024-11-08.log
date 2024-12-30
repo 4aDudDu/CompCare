@@ -1,0 +1,645 @@
+CRITICAL - 2024-11-08 13:38:13 --> ErrorException: Undefined variable $services
+[Method: GET, Route: /]
+in APPPATH\Views\layout\footer.php on line 16.
+ 1 APPPATH\Views\layout\footer.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $services', 'C:\\laragon\\www\\CompCare\\app\\Views\\layout\\footer.php', 16)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\layout\\footer.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/footer', [], true)
+ 5 APPPATH\Controllers\Pages.php(15): view('layout/footer')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:38:29 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 10.
+ 1 APPPATH\Views\pages\home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:38:31 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 10.
+ 1 APPPATH\Views\pages\home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:38:31 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 10.
+ 1 APPPATH\Views\pages\home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:38:32 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 10.
+ 1 APPPATH\Views\pages\home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:38:55 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 10.
+ 1 APPPATH\Views\pages\home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:38:56 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 10.
+ 1 APPPATH\Views\pages\home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:38:57 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 10.
+ 1 APPPATH\Views\pages\home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:38:57 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 10.
+ 1 APPPATH\Views\pages\home.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 10)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:41:27 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:41:27 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:43:52 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:43:53 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:43:53 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:43:54 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:45:50 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:45:52 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:13 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:14 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:15 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:15 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:15 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:16 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:16 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:28 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:29 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:29 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:54 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:55 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:55 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:56 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:56 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 13:46:56 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 12.
+ 1 APPPATH\Views\pages\home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 12)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:02:52 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 6.
+ 1 APPPATH\Views\pages\home.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:07:01 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 6.
+ 1 APPPATH\Views\pages\home.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:07:02 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 6.
+ 1 APPPATH\Views\pages\home.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:07:40 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 6.
+ 1 APPPATH\Views\pages\home.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:07:48 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 6.
+ 1 APPPATH\Views\pages\home.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:07:52 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 6.
+ 1 APPPATH\Views\pages\home.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:08:16 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 6.
+ 1 APPPATH\Views\pages\home.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:08:17 --> ErrorException: Undefined variable $devices
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 6.
+ 1 APPPATH\Views\pages\home.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:15:00 --> ErrorException: Undefined variable $deviceTypes
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 9.
+ 1 APPPATH\Views\pages\home.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $deviceTypes', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 9)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
+CRITICAL - 2024-11-08 14:15:27 --> ErrorException: Undefined variable $deviceTypes
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 9.
+ 1 APPPATH\Views\pages\home.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $deviceTypes', 'C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php', 9)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\CompCare\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Pages.php(14): view('pages/home')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CompCare\\public\\index.php')
